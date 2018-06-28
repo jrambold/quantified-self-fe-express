@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://fathomless-lake-74372.herokuapp.com/";
+	    return "http://quantified-self-rails.us-west-2.elasticbeanstalk.com/";
 	  }
 	};
 
